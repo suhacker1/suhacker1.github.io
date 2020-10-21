@@ -3,9 +3,12 @@ layout: page
 title: Publications
 ---
 
-**COPPTCHA: COPPA Tracking by Checking Hardware-level Activity** 
+<p class="message">
+  These publications can also be found on my Google Scholar profile. Make sure to check out my talks page for corresponding presentations. 
+</p>
 
-IEEE Transactions on Information Forensics and Security, 2020
+
+**COPPTCHA: COPPA Tracking by Checking Hardware-level Activity**. IEEE Transactions on Information Forensics and Security, 2020.
 
 *Kanad Basu, Suha S. Hussain. Ujjwal Gupta, Ramesh Karri*
 
@@ -13,9 +16,7 @@ IEEE Transactions on Information Forensics and Security, 2020
 + **Resources**: [IEEE Paper](https://ieeexplore.ieee.org/abstract/document/9049424), [ISEF Paper](), [Slides](), [Data Collection]()
 + **Honors and Awards**: ACM 1st Award (ISEF), NSA-RD First “Science Security” Award (ISEF), NYCSEF 1st Award in Math and CS, NYC JSHS 3rd in CS (JSHS), The Cardinals Press Release
 
-**A New Method for the Exploitation of Speech Recognition Systems** 
-
-Computational Cybersecurity in Compromised Environments (Department of Defense Workshop), 2018
+**A New Method for the Exploitation of Speech Recognition Systems**. Computational Cybersecurity in Compromised Environments (Department of Defense Workshop), 2018.
 
 *Suha Hussain, Zahra Ghdosi, Ramesh Karri*
 
