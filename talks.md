@@ -14,17 +14,17 @@ OpenMined Privacy Conference. September 26, 2020. Remote.
 
 Empire Hacking. August 11, 2020. Remote.
 
-+ My first talk on PrivacyRaven, a summary of my summer internship at Trail of Bits. Geared towards general security practioners. 
++ My first talk on PrivacyRaven. Geared towards general security practioners. 
 + [Slides](). [Recording](). [GitHub Repository]()
 
 **Detecting Privacy Violations in Children's Apps Using HPCs**
 
 Invited Talk for the NSA Board of Directors. August 1st, 2019. Fort Meade, Maryland, United States. 
 
-+ [Abstract](). [Paper](). [Full Project Information]()
++ [Paper](). [Abstract](). [Full Project Information]()
 
 **A New Method for the Exploitation of Speech Recognition Systems**
 
 Invited Talk at the NSA Research Directorate. August 2nd, 2018. Fort Meade, Maryland, United States. 
 
-+ [Slides](). [Abstract](). [Paper](). [Poster](). [Full Project Information]()
++ [Slides](). [Paper](). [Poster](). [Full Project Information]()
