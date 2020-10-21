@@ -11,7 +11,7 @@ IEEE Transactions on Information Forensics and Security, 2020
 
 + Also led to an [invited talk]() for the NSA Board of Directors 
 + Alternatively titled "Detecting Privacy Violations in Children's Apps Using HPCs" 
-+ **Resources**: [IEEE Paper](https://ieeexplore.ieee.org/abstract/document/9049424), [ISEF Paper](), [Slides](), [Data Collection](),
++ **Resources**: [IEEE Paper](https://ieeexplore.ieee.org/abstract/document/9049424), [ISEF Paper](), [Slides](), [Data Collection]()
 + **Honors and Awards**: ACM 1st Award (ISEF), NSA-RD First “Science Security” Award (ISEF), NYCSEF 1st Award in Math and CS, NYC JSHS 3rd in CS (JSHS), The Cardinals Press Release
 
 **A New Method for the Exploitation of Speech Recognition Systems** 
