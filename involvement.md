@@ -3,12 +3,12 @@ layout: page
 title: Involvement
 ---
 
-# Present
+### Present
 
 **Volunteer, AI Village.** June 2020 - Present.
 + Organize and run the 'AI Privacy and Ethics Journal Club'
 
-# Past
+### Past
 
 **Robotics Engineer, Georgia Tech RoboJackets RoboNav.** August 2019 - October 2020.
 + Built a [multiclass semantic segmentation system](https://github.com/RoboJackets/igvc-software/tree/master/igvc_perception/src/multiclass_segmentation) for an autonomous vehicle
