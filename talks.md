@@ -3,6 +3,11 @@ layout: page
 title: Talks
 ---
 
+<p class="message">
+  If you'd like me to speak at your event or venue, don't hesitate to contact me!
+</p>
+
+
 **PrivacyRaven: Comprehensive Privacy Testing for Deep Learning (II)**
 
 OpenMined Privacy Conference. September 26, 2020. Remote. 
