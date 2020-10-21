@@ -7,6 +7,7 @@ title: Publications
   These publications can also be found on my Google Scholar profile. Make sure to check out my talks page for corresponding presentations. 
 </p>
 
+K. Basu, S. Hussain, U. Gupta, and R. Karri, “**COPPTCHA: COPPA Tracking by Checking Hardware-Level Activity**,” IEEE Transactions on Information Forensics and Security, vol. 15, pp. 3213–3226, 2020.
 
 + Also titled "Detecting Privacy Violations in Children's Apps Using HPCs" 
 + **Resources**: [IEEE Paper](https://ieeexplore.ieee.org/abstract/document/9049424), [ISEF Paper](), [Slides](), [Data Collection]()
