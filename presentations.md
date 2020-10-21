@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Talks
+title: Presentations
 ---
 
 <p class="message">
