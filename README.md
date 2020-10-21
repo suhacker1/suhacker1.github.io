@@ -5,5 +5,3 @@ Hyde is a brazen two-column [Jekyll](http://jekyllrb.com) theme that pairs a pro
 ## License
 
 Open sourced under the [MIT license](LICENSE.md).
-
-<3
