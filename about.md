@@ -3,28 +3,20 @@ layout: page
 title: About
 ---
 
-<p class="message">
-  Hey there! This page is included as an example. Feel free to customize it for your own use upon downloading. Carry on!
-</p>
+My name is Suha Sabi Hussain, and I’m a security engineer focused on **trustworthy machine learning** and  **privacy-enhancing technologies**. 
 
-In the novel, *The Strange Case of Dr. Jeykll and Mr. Hyde*, Mr. Poole is Dr. Jekyll's virtuous and loyal butler. Similarly, Poole is an upstanding and effective butler that helps you build Jekyll themes. It's made by [@mdo](https://twitter.com/mdo).
+I’m an intern at Trail of Bits, taking a gap semester from college. I primarily work on [PrivacyRaven](https://github.com/trailofbits/PrivacyRaven) (privacy testing for deep learning) and assorted applied cryptography projects. 
 
-There are currently two themes built on Poole:
+I’m pursuing a BS in Computer Science from Georgia Tech. My threads are in [People and Theory](http://catalog.gatech.edu/programs/theory-people-computer-science-bs/); in other words, I’m specializing in human-computer interaction and theoretical computer science (Think: CS + Math + Psychology) . In addition, I conduct security research under [Prof. Wenke Lee](https://iisp.gatech.edu/) and volunteer at [AI Village](https://aivillage.org/). 
 
-* [Hyde](http://hyde.getpoole.com)
-* [Lanyon](http://lanyon.getpoole.com)
+I’m currently learning more about: 
++ Formal methods,
++ Applied cryptography,
++ Program analysis,
++ And reverse engineering. 
 
-Learn more and contribute on [GitHub](https://github.com/poole).
+Aside from my professional pursuits, I’m quite interested in writing, traveling, philosophy, media studies, urban studies, sociology, privacy and civil liberties, sailing, and martial arts. 
 
-## Setup
+Previously, I researched machine learning security and privacy at NYU CCS, developed firmware and machine learning systems at RoboJackets RoboNav, and was a hardware engineering intern at Vengo Labs (among other activities). 
 
-Some fun facts about the setup of this project include:
-
-* Built for [Jekyll](http://jekyllrb.com)
-* Developed on GitHub and hosted for free on [GitHub Pages](https://pages.github.com)
-* Coded with [Sublime Text 2](http://sublimetext.com), an amazing code editor
-* Designed and developed while listening to music like [Blood Bros Trilogy](https://soundcloud.com/maddecent/sets/blood-bros-series)
-
-Have questions or suggestions? Feel free to [open an issue on GitHub](https://github.com/poole/issues/new) or [ask me on Twitter](https://twitter.com/mdo).
-
-Thanks for reading!
+You can contact me at `suhashussain1 ‘at’ gmail ‘dot’ com` or [@suhackerr](). For more information, check out my [resume](), [Google Scholar](), or [GitHub]().
