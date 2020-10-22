@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Projects
+title: Programming
 ---
 
 These are some notable open source projects I have worked on. For more information, visit my [GitHub]().
