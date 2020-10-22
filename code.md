@@ -1,10 +1,14 @@
 ---
 layout: page
-title: Code
+title: Projects
 ---
 
-See my GitHub for more information. 
+These are some notable open source projects I have worked on. For more information, visit my [GitHub]().
 
-**PrivacyRaven**
+[**PrivacyRaven: Privacy Testing for Deep Learning**]()
 
-**NN Training**
+Skills: Python, PyTorch Lightning, Numpy, Poetry, Git
+
+[**NN Training**]()
+
+Skills: Python, PyTorch, Catalyst, Numpy 
