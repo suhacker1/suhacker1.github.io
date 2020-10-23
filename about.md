@@ -14,8 +14,8 @@ I’m currently learning more about:
 + Formal methods,
 + Applied cryptography,
 + Program analysis,
-+ And reverse engineering. 
++ And reverse engineering (esp. firmware). 
 
-Aside from my professional pursuits, I’m quite interested in writing, traveling, philosophy, media studies, urban studies, sociology, privacy and civil liberties, sailing, and martial arts. 
+Aside from my professional pursuits, I’m quite interested in writing, traveling, philosophy, media studies, urban studies, sociology, privacy and civil liberties, sailing, electronics, and martial arts. 
 
 You can contact me at `suhashussain1 ‘at’ gmail ‘dot’ com` or [@suhackerr](). For more information, check out my [resume](), [Google Scholar](), or [GitHub]().
