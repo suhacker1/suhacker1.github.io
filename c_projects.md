@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Programming
+title: Software
 ---
 
 These are some notable open source projects I have worked on. For more information, visit my [GitHub]().
@@ -13,7 +13,7 @@ Skills: Python, PyTorch Lightning, IBM ART, Scikit-learn, NumPy, Poetry, Git
 
 Resources: [GitHub Repository](), [Blog Post](), [OpenMined Talk]()
 
-**NN Training**
+**Deep Learning Training**
 
 Skills: Python, PyTorch, Catalyst, NumPy, Scikit-learn 
 
