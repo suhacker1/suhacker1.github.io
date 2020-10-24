@@ -5,7 +5,7 @@ title: About
 
 My name is Suha Sabi Hussain, and I’m a security engineer focused on **trustworthy machine learning** and  **privacy-enhancing technologies**. 
 
-I’m an intern at Trail of Bits, taking a gap semester from college. I primarily work on [PrivacyRaven](https://github.com/trailofbits/PrivacyRaven) (privacy testing for deep learning) and assorted applied cryptography projects. 
+I’m an intern at Trail of Bits, taking a gap semester from college. I primarily work on [PrivacyRaven](https://github.com/trailofbits/PrivacyRaven) and assorted applied cryptography projects. 
 
 I’m pursuing my BS in Computer Science from Georgia Tech, specializing in theoretical computer science and human-computer interaction (formally: [threads in theory and people](https://www.cc.gatech.edu/academics/degree-programs/bachelors/computer-science/threads)).
 In addition, I conduct security research under [Prof. Wenke Lee](https://iisp.gatech.edu/) and volunteer at [AI Village](https://aivillage.org/). 
