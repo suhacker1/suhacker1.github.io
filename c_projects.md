@@ -3,7 +3,9 @@ layout: page
 title: Software
 ---
 
-These are some notable open source projects I have worked on. For more information, visit my [GitHub]().
+<p class="message">
+  These are some notable open source projects I have worked on. For more information, visit my GitHub.
+</p>
 
 **PrivacyRaven**
 
