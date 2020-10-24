@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About
+title: About Me
 ---
 
 My name is Suha Sabi Hussain, and I’m a security engineer focused on **trustworthy machine learning** and  **privacy-enhancing technologies**. 
