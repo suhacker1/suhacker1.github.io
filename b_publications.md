@@ -4,7 +4,7 @@ title: Publications
 ---
 
 <p class="message">
-  These publications can also be found on my Google Scholar profile. Make sure to check out my talks page for corresponding presentations. 
+  These publications can also be found on <a href="https://scholar.google.com/citations?user=950rBFYAAAAJ&hl=en">my Google Scholar profile</a>. Make sure to check out <a href="https://sshussain.me/d_presentations/">this page</a> for corresponding presentations. 
 </p>
 
 K. Basu, S. Hussain, U. Gupta, and R. Karri, “**COPPTCHA: COPPA Tracking by Checking Hardware-Level Activity**,” IEEE Transactions on Information Forensics and Security, vol. 15, pp. 3213–3226, 2020.
