@@ -17,6 +17,8 @@ Resources: [GitHub Repository](), [Blog Post](), [OpenMined Talk]()
 
 **Deep Learning Training**
 
-Skills: Python, PyTorch, Catalyst, NumPy, Scikit-learn 
+This was a training repository made for the RoboJackets RoboNav team. It is intended to be a quick crash course in practical machine learning and deep learning. At the end of README, there is a larger list of trusted resources for further training. 
+
+Skills: Python, PyTorch, Catalyst, NumPy, Scikit-learn, Jupyter Notebooks
 
 Resources: [GitHub Repository]()
