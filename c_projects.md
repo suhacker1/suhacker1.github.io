@@ -13,7 +13,7 @@ PrivacyRaven is a privacy testing library for deep learning systems. You can use
 
 Skills: Python, PyTorch Lightning, IBM ART, Scikit-learn, NumPy, Poetry, Git
 
-Resources: [GitHub Repository](), [Blog Post](), [OpenMined Talk]()
+Resources: [GitHub Repository](https://github.com/trailofbits/PrivacyRaven), [Blog Post](https://blog.trailofbits.com/2020/10/08/privacyraven-has-left-the-nest/), [OpenMined Talk](https://www.youtube.com/watch?v=F46lX5VIoas&t=2h21m40s)
 
 **Deep Learning Training**
 
@@ -21,4 +21,4 @@ This was a training repository made for the RoboJackets RoboNav team. It is inte
 
 Skills: Python, PyTorch, Catalyst, NumPy, Scikit-learn, Jupyter Notebooks
 
-Resources: [GitHub Repository]()
+Resources: [GitHub Repository](https://github.com/RoboJackets/nn-training)
