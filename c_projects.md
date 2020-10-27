@@ -4,7 +4,7 @@ title: Software
 ---
 
 <p class="message">
-  These are some notable open source projects I have worked on. For more information, visit my GitHub.
+  These are some notable open source projects I have worked on. For more information, visit my <a href="https://github.com/suhacker1">GitHub</a>.
 </p>
 
 **PrivacyRaven**
