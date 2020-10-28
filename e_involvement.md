@@ -13,7 +13,7 @@ title: Involvement
 **Robotics Engineer, Georgia Tech RoboJackets RoboNav.** 
 
 *Aug. 2019 - Oct. 2020*.
-+ Built a [multiclass semantic segmentation system](https://github.com/RoboJackets/igvc-software/tree/master/igvc_perception/src/multiclass_segmentation) for an autonomous vehicle
++ Built a [multiclass semantic segmentation system](https://github.com/RoboJackets/igvc-software/tree/216c4c2c0509387d23ea4d360d23aaf770771bf5/igvc_perception/src/multiclass_segmentation) for an autonomous vehicle
 + Trained new members on [deep learning](https://github.com/RoboJackets/nn-training) and firmware engineering 
 + Developed unit tests, fuzz tests, and emulation tooling for ARM Mbed firmware subsystems
 
