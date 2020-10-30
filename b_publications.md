@@ -22,4 +22,4 @@ S. Hussain, Z. Ghodsi, R. Karri, “**A New Method for the Exploitation of Speec
 
 ## Assurance 
 
-+ [ZCoin Lelantus - Shadow](https://github.com/trailofbits/publications/blob/master/reviews/zcoin-lelantus-summary.pdf) ([Press Release](https://zcoin.io/lelantus-cryptographic-library-audit-results/))
++ ZCoin Lelantus - Shadow ([Summary](https://github.com/trailofbits/publications/blob/master/reviews/zcoin-lelantus-summary.pdf); [Press Release](https://zcoin.io/lelantus-cryptographic-library-audit-results/))
