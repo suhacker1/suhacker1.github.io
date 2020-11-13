@@ -16,6 +16,8 @@ I’m currently learning more about:
 + Program analysis,
 + And reverse engineering (esp. firmware). 
 
-Aside from my professional pursuits, I have a wide variety of interests, including writing, traveling, philosophy, media studies, urban studies, math, boats, electronics, and martial arts. I care deeply about privacy and civil liberties advocacy, immigrant rights, mutual aid, and STEM education. 
+Aside from my professional pursuits, I have a wide variety of interests, including writing, traveling, philosophy, media studies, urban studies, math, boats, electronics, and martial arts. 
+
+I care deeply about privacy and civil liberties, Internet freedom, immigrant rights, mutual aid, and accessible STEM education. I'm open to new volunteer opportunities. 
 
 You can contact me at `suhashussain1 ‘at’ gmail ‘dot’ com` or [@suhackerr](https://twitter.com/suhackerr). For more information, check out my [resume](https://sshussain.me/Suha_Sabi_Hussain_Resume.pdf), [Google Scholar](https://scholar.google.com/citations?user=950rBFYAAAAJ&hl=en), or [GitHub](https://github.com/suhacker1).
