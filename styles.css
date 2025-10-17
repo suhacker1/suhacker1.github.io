@@ -1,0 +1,63 @@
+html {
+    background-color: rgb(6, 6, 30);
+    color: rgb(21, 225, 89);
+    font-family: 'Lucida Console', 'Courier New', monospace;
+}
+
+a {
+    color: rgb(255, 255, 255);
+    text-decoration: none;
+    transition: color 0.3s ease;
+}
+
+a:hover {
+    color: rgb(255, 180, 89);
+    text-decoration: underline;
+}
+
+a:visited {
+    color: rgb(180, 180, 255);
+}
+
+h1, h2, h3, h4, h5, h6 {
+    font-family: 'Monaco', monospace;
+}
+
+.about-me {
+    margin: 20px;
+    padding: 20px;
+    border: 2px solid rgb(21, 225, 89);
+    border-radius: 10px;
+    background-color: rgba(0, 0, 0, 0.5);
+    display: grid;
+    grid-template-columns: auto 1fr;
+    gap: 20px;
+    align-items: start;
+}
+
+.about-me img {
+    width: 150px;
+    height: 150px;
+    border-radius: 75px;
+}
+
+.select-works {
+    margin: 40px;
+    padding: 20px;
+    display: grid;
+    grid-template-rows: auto 1fr;
+    gap: 60px;
+    align-items: start;
+
+    h3{
+        text-align: center;
+        padding-left: 80px;
+    }
+}
+
+@media (max-width: 600px) {
+    .about-me {
+        grid-template-columns: 1fr;
+        text-align: center;
+    }
+}
